@@ -10,7 +10,7 @@ sorting algorithm
 - make bonus
 
 ## Mandatory part
-ARG=`ruby -e "puts (0..500).to_a.shuffle.join(' ')"`; ./push_swap $ARG
+ARG=\`ruby -e "puts (0..500).to_a.shuffle.join(' ')"\`; ./push_swap $ARG
 - The “push_swap” program
 > vizualisator https://github.com/o-reo/push_swap_visualizer.git
 > - random list of 100: **650 - 680** steps
