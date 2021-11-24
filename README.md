@@ -12,8 +12,8 @@ sorting algorithm
 ## Mandatory part
 - The “push_swap” program
 > vizualisator https://github.com/o-reo/push_swap_visualizer.git
-> - random list of 100 - **650 - 680** steps
-> - random list of 500 - **4800 - 4900** steps 
+> - random list of 100: **650 - 680** steps
+> - random list of 500: **4800 - 4900** steps 
 
 ## Bonus part
 - The “checker” program
