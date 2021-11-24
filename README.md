@@ -18,6 +18,3 @@ ARG=\`ruby -e "puts (0..500).to_a.shuffle.join(' ')"\`; ./push_swap $ARG
 
 ## Bonus part
 - The “checker” program
-
-## Command
-<img width="389" alt="cmd" src="https://user-images.githubusercontent.com/94758944/143303843-0ae221b0-e6e6-4179-bee1-320454c9b716.png">
