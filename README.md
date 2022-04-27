@@ -1,9 +1,7 @@
 # push_swap
 
 ## Info
-sorting algorithm
-
-> <img width="201" alt="Screen Shot 2021-11-20 at 9 54 09 PM" src="https://user-images.githubusercontent.com/94758944/143299529-b34a8991-2fc0-4c1d-895b-c721740c9c11.png">
+![image](https://user-images.githubusercontent.com/94758944/165584190-b54da7bc-9b8f-4a1f-846c-d12693701b6c.png)
 
 ## How to use
 - make
